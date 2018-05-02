@@ -3,6 +3,7 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/ArnaudPichot/ng-exercises.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/ArnaudPichot/ng-exercises.svg?branch=master)](https://travis-ci.org/riderx/ng-exercises)
 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
